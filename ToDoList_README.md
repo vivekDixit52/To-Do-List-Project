@@ -39,6 +39,8 @@ A simple and efficient web application to manage your daily tasks and stay organ
 
 ## 📸 Screenshot
 
+![App Screenshot](./Screenshot%201.png)
+![App Screenshot](./Screenshot%202.png)
 *(Optional – Add a screenshot of your app here)*  
 ```
 ![App Screenshot](./screenshot.png)
